@@ -1,0 +1,11 @@
+energymgmt-test
+ob-ep3-dev1-dev
+ob-ep3-dip1-dev
+ob-ep3-prc1-dev
+ob-ps01-test
+ob18-dev01-dev
+ob18-dip01-dev
+ob18-prc01-dev
+pme-test
+tsact-app-tst (transact-app-test)
+tsact-db-tst (transact-db-test)

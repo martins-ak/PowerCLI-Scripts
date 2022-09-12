@@ -1,0 +1,1 @@
+powershell.exe -noexit C:\Users\918842605\Downloads\Scripts\SFSU\SSH\ssh.ps1 %1

@@ -1,0 +1,32 @@
+Datastore,Folder,Content
+datastore-lun70,vmware-io-analyzer-1.6.2u1,vmware-io-analyzer-1.6.2u1_1.vmdk vmware-io-analyzer-1.6.2u1_1-flat.vmdk
+datastore-lun70,fabs-bi-app-tst,fabs-bi-app-tst.fabs.sfsu.edu-aux.xml
+datastore-lun70,fabs-bi-etl-tst,fabs-bi-etl-tst.fabs.sfsu.edu-aux.xml
+datastore-lun71,fabs-bi-db,fabs-bi-db_1-000002.vmdk fabs-bi-db-000002.vmdk fabs-bi-db_1-000002-sesparse.vmdk fabs-bi-db-000002-sesparse.vmdk
+datastore-lun72,tableau-test-linux-delete-12-30-2019,tableau-test-linux-aux.xml
+datastore-lun72,SAEM-VS3-FS236(SAEM-Files),SAEM-VS3-FS236(SAEM-Files).vmx SAEM-VS3-FS236(SAEM-Files).vmdk vmware.log vmware-15.log vmware-14.log vmware-13.log vmware-12.log vmware-11.log vmware-10.log SAEM-VS3-FS236(SAEM-Files).nvram SAEM-VS3-FS236(SAEM-Files).vmsd SAEM-VS3-FS236(SAEM-Files)-aux.xml SAEM-VS3-FS236(SAEM-Files)-ctk.vmdk SAEM-VS3-FS236(SAEM-Files)-317329bf.hlog SAEM-VS3-FS236(SAEM-Files)-flat.vmdk
+datastore-lun72,faculty-mysql01-new,faculty-mysql01-new.vmx faculty-mysql01-new.vmdk faculty-mysql01-new_1.vmdk faculty-mysql01-new.nvram faculty-mysql01-new-ctk.vmdk faculty-mysql01-new-34f817b3.hlog faculty-mysql01-new.vmsd faculty-mysql01-new_1-ctk.vmdk faculty-mysql01-new-flat.vmdk faculty-mysql01-new_1-flat.vmdk
+datastore-lun72,ob-wks2(OB16),emt-ob-wks2-aux.xml
+datastore-lun72,ob-wks1(OB16),emt-ob-wks1-aux.xml
+datastore-lun72,faculty-mysql02-test-new,faculty-mysql02-test-new.vmx faculty-mysql02-test-new.vmdk faculty-mysql02-test-new_1.vmdk faculty-mysql02-test-new.nvram faculty-mysql02-test-new-flat.vmdk faculty-mysql02-test-new.vmsd faculty-mysql02-test-new_1-flat.vmdk faculty-mysql02-test-new-5894d99b.hlog
+datastore-lun73,rconfig,rconfig.vmx rconfig.vmdk vmware-2.log vmware-1.log vmware.log rconfig.nvram rconfig-flat.vmdk rconfig-46f130b6.hlog rconfig.vmsd
+datastore-lun73,AADC-Test-testrestore,AADC-Test.vmxf
+datastore-lun73,online-test,online-test.vmdk online-test_1.vmdk online-test-ctk.vmdk online-test_1-ctk.vmdk online-test-flat.vmdk online-test_1-flat.vmdk
+datastore-lun74,ob16-prc02,ob-prc02-aux.xml
+datastore-lun74,ob16-prc01,ob-prc01-aux.xml
+datastore-lun74,ob16-app01,ob-app01-aux.xml
+datastore-lun74,ol7-test,ol7-test.vmx ol7-test.vmdk vmware-3.log vmware-2.log vmware-1.log vmware.log vmware-4.log ol7-test.nvram ol7-test-0c28fcef.hlog ol7-test.vmsd ol7-test-flat.vmdk
+datastore-lun74,ob16-web01,ob-web01-aux.xml
+datastore-lun74,ob16-dds01,ob-dds01-aux.xml
+datastore-lun74,ob16-unt01,ob-unt01-aux.xml
+datastore-lun75,SAEM-SCCM01(saem-vs2-sccm01),SAEM-SCCM01.saem.sfsu.edu-aux.xml
+datastore-lun75,boomi-dev-deleteanytime,boomi-dev.vmxf
+datastore-lun75,faculty-apps01-test-new,faculty-apps01-test-new.vmx faculty-apps01-test-new_1.vmdk faculty-apps01-test-new.vmdk vmware-3.log vmware-2.log vmware-1.log vmware.log faculty-apps01-test-new.nvram faculty-apps01-test-new_1-flat.vmdk faculty-apps01-test-new-flat.vmdk faculty-apps01-test-new.vmsd faculty-apps01-test-new-5e98fab9.hlog
+datastore-lun76,faculty-mysql01-test-new,faculty-mysql01-test-new.vmx faculty-mysql01-test-new.vmdk faculty-mysql01-test-new_1.vmdk vmware-3.log vmware-2.log vmware-1.log vmware.log vmware-6.log vmware-5.log vmware-4.log faculty-mysql01-test-new.nvram faculty-mysql01-test-new_1-flat.vmdk faculty-mysql01-test-new-2caeaec3.hlog faculty-mysql01-test-new-aux.xml faculty-mysql01-test-new.vmsd faculty-mysql01-test-new-flat.vmdk
+datastore-lun78,SAEM-SFTP(saem-vs6-sftp),SAEM-SFTP.saem.sfsu.edu-aux.xml
+datastore-lun79,webapps-demo,webapps-demo.vmdk webapps-demo-flat.vmdk webapps-demo-ctk.vmdk
+datastore-lun79,npm-apps (SolarWinds),npm-apps (SolarWinds)-000003.vmdk npm-apps (SolarWinds)-000003-sesparse.vmdk
+datastore-lun81,SAEM-VS3-FS236(SAEM-Files),SAEM-VS3-FS236.saem.sfsu.edu_1-aux.xml
+datastore-lun82,veeam-proxy02-testxiv-restore,veeam-proxy02.vmxf
+datastore-lun83,veeam-proxy04,veeam-proxy04-000002.vmdk veeam-proxy04-000002-sesparse.vmdk veeamp-proxy04-new-aux.xml
+datastore-lun83,Adv-app-test-killme,Adv-app-test.vmxf
